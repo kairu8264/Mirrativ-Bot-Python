@@ -19,13 +19,21 @@ pip3 install -r requirements.txt
 右にある説明の通りに打ちます
 
 (例)
+```
 un="kairu8264" #ツイッターのユーザーID(@はいらない)
 pw="123456789"   #ツイッターのパスワード
 url='https://www.mirrativ.com/live/123456789'  #ミラティブ配信のリンク
+```
 
 そしたら最後に
 
+```
 py mirrativ_live_check.py
+```
+
 を実行
 
 うごかなかったらVSCodeを使う手もあります!
+
+
+Discord=https://discord.gg/hphSwJ6X2y
